@@ -12,7 +12,7 @@ I'm a **hobbyist developer** who loves building applications for my own use and 
 
 - [earthquake_data_explorer (GitLab)](https://gitlab.com/MickTheLinuxGeek/earthquake_data_explorer) – My favorite project: an explorer for earthquake datasets
 - [ByteBoard-Blog](https://github.com/MickTheLinuxGeek/ByteBoard-Blog) – Personal blogging platform
-- [dits](https://github.com/MickTheLinuxGeek/dits) – CLI utilities for daily tasks
+- [dits]() – CLI utilities for daily tasks
 - [ByteBoard](https://github.com/MickTheLinuxGeek/ByteBoard) – Notetaking and organization tool
 - [LinuxSpace-Website](https://github.com/MickTheLinuxGeek/LinuxSpace-Website) – Community website for Linux enthusiasts
 - [yardhopper](https://github.com/frzbgolfer/yardhopper) – A collaborative project
